@@ -1,0 +1,6 @@
+.env
+approval_queue.json
+message_tracking.json
+feedback_report.txt
+__pycache__/
+*.pyc
